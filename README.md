@@ -84,7 +84,6 @@ A collection of Python programming exercises created to improve programming logi
 
 ## 🎯 Currently Learning
 
-```text
 Python
 Machine Learning
 Deep Learning
@@ -139,3 +138,4 @@ Thank you for visiting my GitHub profile! As a fresher and aspiring AI Engineer,
 ⭐ Feel free to explore my repositories and follow my learning journey!
 
 Happy Learning! 🚀
+

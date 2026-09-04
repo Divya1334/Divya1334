@@ -84,12 +84,12 @@ A collection of Python programming exercises created to improve programming logi
 
 ## 🎯 Currently Learning
 
-Python
-Machine Learning
-Deep Learning
-Data Science
-SQL
-Computer Vision
+Python |
+Machine Learning |
+Deep Learning |
+Data Science |
+SQL |
+Computer Vision |
 Artificial Intelligence
 
 

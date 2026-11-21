@@ -56,6 +56,14 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 - Deep Learning
 - Computer Vision
 - CNN
+- RNN
+- LSTM
+- Transformers
+- NLP
+- Encoding-Decoding Architecture
+- Attention Mechanism
+- LLM & RAG
+- AI agents
 
 ### Tools
 - Jupyter Notebook
@@ -66,21 +74,41 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 Brain Hemorrhage Classification Using CNN
-A Deep Learning project that uses Convolutional Neural Networks to classify brain hemorrhage images.
+### 🤖 AI & Generative AI
+- **[AI-Powered Laptop Shopping Assistant](YOUR_REPOSITORY_LINK)**  
+  An AI-powered shopping assistant built using Google Gemini API, LangChain, and LangGraph to search, compare, and recommend laptops based on user requirements.
 
-### 👕 Clothing Image Clustering Using HOG and K-Means
-A Computer Vision and Machine Learning project that extracts HOG features from clothing images and groups similar images using K-Means clustering.
+### 🧠 Deep Learning & Computer Vision
+- **[Brain Hemorrhage Classification Using CNN](YOUR_REPOSITORY_LINK)**  
+  A deep learning project that uses Convolutional Neural Networks (CNN) to classify brain hemorrhage images.
 
-### 📊 Data Visualization Projects
-Projects focused on analyzing datasets and creating meaningful visualizations using Python libraries.
+- **[Brain Tumor Classification](YOUR_REPOSITORY_LINK)**  
+  A deep learning project focused on classifying brain tumor images.
 
-### 🐍 Python Programming Exercises
-A collection of Python programming exercises created to improve programming logic and problem-solving skills.
+- **[Food Classification](YOUR_REPOSITORY_LINK)**  
+  An image classification project using deep learning and transfer learning.
 
----
+- **[Detecting the Type of Skin Disorder](YOUR_REPOSITORY_LINK)**  
+  A machine learning project focused on identifying different types of skin disorders.
+
+- **[Clothing Image Clustering Using HOG Features and K-Means](YOUR_REPOSITORY_LINK)**  
+  A computer vision project that extracts HOG features from clothing images and groups similar images using K-Means clustering.
+
+### 📊 Machine Learning & Predictive Analytics
+- **[Compressive Concrete Strength Prediction](YOUR_REPOSITORY_LINK)**  
+  A machine learning project focused on predicting concrete compressive strength using input features.
+
+- **[Cell Phone Price Prediction](YOUR_REPOSITORY_LINK)**  
+  A machine learning project that predicts mobile phone prices based on device specifications.
+
+- **[Blood Donation Prediction](YOUR_REPOSITORY_LINK)**  
+  A machine learning project focused on predicting blood donation behaviour.
+
+- **[Machine Learning Projects](YOUR_REPOSITORY_LINK)**  
+  A collection of machine learning models and experiments covering different algorithms and techniques.
+
 
 ## 🎯 Currently Learning
 

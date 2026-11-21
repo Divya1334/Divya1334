@@ -77,36 +77,36 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 ## 🚀 Featured Projects
 
 ### 🤖 AI & Generative AI
-- **[AI-Powered Laptop Shopping Assistant](YOUR_REPOSITORY_LINK)**  
+- **[AI-Powered Laptop Shopping Assistant](https://github.com/Divya1334/AI-powered-laptop-shopping-assistant.git)**  
   An AI-powered shopping assistant built using Google Gemini API, LangChain, and LangGraph to search, compare, and recommend laptops based on user requirements.
 
 ### 🧠 Deep Learning & Computer Vision
-- **[Brain Hemorrhage Classification Using CNN](YOUR_REPOSITORY_LINK)**  
+- **[Brain Hemorrhage Classification Using CNN](https://github.com/Divya1334/WEB-BASED-BRAIN-HEMMORHAGE-CLASSIFICATION-USING-CNN.git)**  
   A deep learning project that uses Convolutional Neural Networks (CNN) to classify brain hemorrhage images.
 
-- **[Brain Tumor Classification](YOUR_REPOSITORY_LINK)**  
+- **[Brain Tumor Classification](https://github.com/Divya1334/brain-tumor-classification-project.git)**  
   A deep learning project focused on classifying brain tumor images.
 
-- **[Food Classification](YOUR_REPOSITORY_LINK)**  
+- **[Food Classification](https://github.com/Divya1334/food-classification.git)**  
   An image classification project using deep learning and transfer learning.
 
-- **[Detecting the Type of Skin Disorder](YOUR_REPOSITORY_LINK)**  
+- **[Detecting the Type of Skin Disorder](https://github.com/Divya1334/Detecting-the-type-skin-disorder.git)**  
   A machine learning project focused on identifying different types of skin disorders.
 
-- **[Clothing Image Clustering Using HOG Features and K-Means](YOUR_REPOSITORY_LINK)**  
+- **[Clothing Image Clustering Using HOG Features and K-Means](https://github.com/Divya1334/clothing-image-clustering-using-HOG-features-and-K-Means.git)**  
   A computer vision project that extracts HOG features from clothing images and groups similar images using K-Means clustering.
 
 ### 📊 Machine Learning & Predictive Analytics
-- **[Compressive Concrete Strength Prediction](YOUR_REPOSITORY_LINK)**  
+- **[Compressive Concrete Strength Prediction](https://github.com/Divya1334/compressive-concrete-strength.git)**  
   A machine learning project focused on predicting concrete compressive strength using input features.
 
-- **[Cell Phone Price Prediction](YOUR_REPOSITORY_LINK)**  
+- **[Cell Phone Price Prediction](https://github.com/Divya1334/cell-phone-price-prediction.git)**  
   A machine learning project that predicts mobile phone prices based on device specifications.
 
-- **[Blood Donation Prediction](YOUR_REPOSITORY_LINK)**  
+- **[Blood Donation Prediction](https://github.com/Divya1334/blood-donation-prediction.git)**  
   A machine learning project focused on predicting blood donation behaviour.
 
-- **[Machine Learning Projects](YOUR_REPOSITORY_LINK)**  
+- **[Machine Learning Projects](https://github.com/Divya1334/machine-learning.git)**  
   A collection of machine learning models and experiments covering different algorithms and techniques.
 
 
